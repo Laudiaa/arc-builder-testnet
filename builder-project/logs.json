@@ -1,0 +1,87 @@
+[
+  {
+    "time": "2026-06-26T08:47:56.180Z",
+    "type": "START",
+    "message": "Program dimulai"
+  },
+  {
+    "time": "2026-06-26T08:47:56.227Z",
+    "type": "SUCCESS",
+    "message": "Test activity tracker jalan"
+  },
+  {
+    "time": "2026-06-26T08:47:56.227Z",
+    "type": "INFO",
+    "message": "Siap lanjut fitur berikutnya"
+  },
+  {
+    "time": "2026-06-26T08:49:29.149Z",
+    "type": "START",
+    "message": "Program dimulai"
+  },
+  {
+    "time": "2026-06-26T08:49:29.187Z",
+    "type": "TRY",
+    "message": "Attempt 1"
+  },
+  {
+    "time": "2026-06-26T08:49:29.190Z",
+    "type": "FAIL",
+    "message": "Attempt 1 failed"
+  },
+  {
+    "time": "2026-06-26T08:49:29.190Z",
+    "type": "WAIT",
+    "message": "Retry in 2000ms"
+  },
+  {
+    "time": "2026-06-26T08:49:31.196Z",
+    "type": "TRY",
+    "message": "Attempt 2"
+  },
+  {
+    "time": "2026-06-26T08:49:31.197Z",
+    "type": "SUCCESS",
+    "message": "Success at attempt 2"
+  },
+  {
+    "time": "2026-06-26T08:49:31.198Z",
+    "type": "END",
+    "message": "Task selesai"
+  },
+  {
+    "time": "2026-06-26T08:54:50.298Z",
+    "type": "START",
+    "message": "Program dimulai"
+  },
+  {
+    "time": "2026-06-26T08:54:50.341Z",
+    "type": "TRY",
+    "message": "Attempt 1"
+  },
+  {
+    "time": "2026-06-26T08:54:50.345Z",
+    "type": "FAIL",
+    "message": "Attempt 1 failed"
+  },
+  {
+    "time": "2026-06-26T08:54:50.345Z",
+    "type": "WAIT",
+    "message": "Retry in 2000ms"
+  },
+  {
+    "time": "2026-06-26T08:54:52.352Z",
+    "type": "TRY",
+    "message": "Attempt 2"
+  },
+  {
+    "time": "2026-06-26T08:54:52.353Z",
+    "type": "SUCCESS",
+    "message": "Success at attempt 2"
+  },
+  {
+    "time": "2026-06-26T08:54:52.354Z",
+    "type": "END",
+    "message": "Task selesai"
+  }
+]
